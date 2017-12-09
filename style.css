@@ -1,0 +1,38 @@
+body {
+  background: #eaeaea;
+  font-family: 'Open Sans';
+}
+table#matrix {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid #ccc;
+  padding: 3px;
+  min-width:40px;
+  text-align: center;
+}
+table#matrix img {
+  max-width:60px;
+  max-height:60px;
+}
+#myModal img {
+  max-width:400px;
+  max-height:400px;
+  margin-bottom: 5px;
+}
+.color-green1 {
+  background: #a1cea1;
+}
+.color-green2 {
+  background: #3db03d;;
+}
+.color-red1 {
+  background: #d59a9a;
+}
+.color-red2 {
+  background: #c92626;
+}
+a {
+  color:black;
+}
